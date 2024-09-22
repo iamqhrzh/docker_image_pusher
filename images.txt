@@ -1,4 +1,4 @@
-wg-easy
+weejewel/wg-easy
 mzz2017/v2raya
 debian
 nginx
