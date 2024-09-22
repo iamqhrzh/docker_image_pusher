@@ -1,6 +1,5 @@
 wg-easy
 mzz2017/v2raya
-ubuntu:20.04
 debian
 nginx
 #支持私库
